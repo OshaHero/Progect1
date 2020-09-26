@@ -1,2 +1,2 @@
-# Progect1
+# Project1
 Мой первый сайт
